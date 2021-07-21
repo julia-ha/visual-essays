@@ -1,0 +1,34 @@
+{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "id": "http://visual-essays.app/annotations/?include=description&target=1cd5224c",
+  "type": "AnnotationPage",
+  "partOf": {
+    "id": "http://visual-essays.app/annotations/?include=description&target=1cd5224c",
+    "total": 1,
+    "modified": "2021-07-21T14:33:11.327893"
+  },
+  "startIndex": 0,
+  "items": [
+    {
+      "type": "Annotation",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "earring",
+          "purpose": "commenting"
+        }
+      ],
+      "target": {
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=pixel:7237.11865234375,7344.029296875,1538.38427734375,1203.095703125"
+        },
+        "id": "1cd5224c"
+      },
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "1cd5224c/d6a0d7ff",
+      "seq": 0
+    }
+  ]
+}
