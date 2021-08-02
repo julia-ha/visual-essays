@@ -45,6 +45,6 @@ literary treatments. In 2006, the Dutch public selected it as the most beautiful
 The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
 literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
 <param ve-map zoom="2">
-<param ve-map-layer geojson 
+<param ve-map-layer geojson active
        title="Black-Eyed Pea Distribution" 
        url="Distribution_3.geojson"> 
