@@ -25,7 +25,7 @@ dated c. 1665. Going by various names over the centuries, it became known by its
 The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
 literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
 <param ve-map center="Q99" zoom="11" prefer-geojson>
-<param ve-video id="R6l8jRF-eGA" start="18">
+<param ve-video id="R6l8jRF-eGA">
 
 
 ## video
@@ -39,3 +39,11 @@ literary treatments. In 2006, the Dutch public selected it as the most beautiful
 The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
 literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
 <param ve-video id="https://player.vimeo.com/video/76979871">
+
+## map
+
+The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
+literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
+<param ve-map-layer geojson 
+       title="Black-Eyed Pea Distribution" 
+       url="Distribution_3.geojson"> 
