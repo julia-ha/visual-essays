@@ -52,7 +52,7 @@ literary treatments. In 2006, the Dutch public selected it as the most beautiful
 ## image
 The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
 literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
-<param ve-image url="https://iiif.lib.harvard.edu/manifests/drs:485686543"
+<param ve-image url="https://iiif.lib.harvard.edu/manifests/view/drs:485686543$29i"
        label="Manuel Rodrigues Pinto Rubens, Watercolor of a Ticuna pagé in Costumbres de los indigenas que habitan en el Valle del Amazonas en el departamento de Loreto, 1873"
        description="The written text reads: Yndios Ticunas, El Pagé ejerciendo las funciones de medico; Le Pagé (maitre de [vieil] age) qui [...] la fonction a medecins, il a bu du Ayahuasca et se laisse inspirer pour connaitre[sic] la maladie et les remettres"
        attribution="Courtesy of Dumbarton Oaks Research Library, call number: RARE-OVERSZ F3429.3.C8 P56 1875"
