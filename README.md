@@ -58,3 +58,9 @@ literary treatments. In 2006, the Dutch public selected it as the most beautiful
        attribution="Courtesy of Dumbarton Oaks Research Library, call number: RARE-OVERSZ F3429.3.C8 P56 1875"
        license= "Public Domain"
        rotate= "90">
+ 
+## plant specimen
+
+The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
+literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.     
+<param ve-plant-specimen jpid="10.5555/al.ap.specimen.m0153623" region="-587,1236,7046,5625">       
