@@ -65,7 +65,7 @@ The work has been in the collection of the Mauritshuis in The Hague since 1902 a
 literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.     
 <param ve-plant-specimen jpid="10.5555/al.ap.specimen.m0153623" region="-587,1236,7046,5625" title="Plant Specimen">  
 
-## image zoom
+### image zoom
 <param ve-entity eid="Q495448" title="Marshall County" aliases="central Tennessee">
 
 <param ve-entity eid="Q170603" title="Viceroyalty of New Spain" aliases="New Spain">
