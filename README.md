@@ -67,7 +67,7 @@ literary treatments. In 2006, the Dutch public selected it as the most beautiful
        description="The written text reads: Yndios Ticunas, El Pagé ejerciendo las funciones de medico; Le Pagé (maitre de [vieil] age) qui [...] la fonction a medecins, il a bu du Ayahuasca et se laisse inspirer pour connaitre[sic] la maladie et les remettres"
        attribution="Courtesy of Dumbarton Oaks Research Library, call number: RARE-OVERSZ F3429.3.C8 P56 1875"
        license= "Public Domain"
-       rotate= "90">
+       >
  
 ## plant specimen
 
