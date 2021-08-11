@@ -83,3 +83,10 @@ The migration of sunflower iconography from one source to another is evidenced i
 <param ve-image region="66,93,970,856" manifest="https://iiif-v2.visual-essays.app/manifest/30cc2872daec9f4902bb335613918a06cabedc1386bbe5bb55c6eada0331736e" ref="2">
 <param ve-image region="294,2322,2998,2383" manifest="https://iiif-v2.visual-essays.app/manifest/7aacc84ce102f77cc479d142054d3117746f31904b7eaeae6f11fbcaaedbfe29" ref="3">
 <param ve-image fit="contain" manifest="https://iiif-v2.visual-essays.app/manifest/ea9333b3c8970f7512f89c2d65a2433764edb09dbfcd4e6f1a7ddc0368a57019" ref="4">
+
+### ring network
+
+The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
+literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.   
+<param ve-d3plus-ring-network 
+       url="https://raw.githubusercontent.com/Athaodam/Adventures-with-Ayahuasca/main/Networks.tsv">
