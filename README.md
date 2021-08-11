@@ -89,4 +89,5 @@ The migration of sunflower iconography from one source to another is evidenced i
 The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
 literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.   
 <param ve-d3plus-ring-network 
-       url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/main/data/heliconia_network_interactions.tsv">
+       url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/develop/data/heliconia_network_interactions.tsv"
+       center="Heliconia imbricata">
