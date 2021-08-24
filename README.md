@@ -40,6 +40,11 @@ The work has been in the collection of the Mauritshuis in The Hague since 1902 a
 literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
 <param ve-video id="https://player.vimeo.com/video/76979871">
 
+
+## Vis.js Network
+This network diagram is rendered using the Vis.js library, a dynamic, browser based visualization JavaScript library. Examples of network graphs created in Vis.js can be seen at https://visjs.github.io/vis-network/examples/. The documentation for networks can be viewed at https://visjs.github.io/vis-network/docs/network/. The ve-vis-network tag is used to generate this graph and currently supports comma separated (CSV) or tab separated (TSV) delimited text files as input data. The url attribute is required to point to the data file.
+<param ve-vis-network title="Anna Maria Luisa de Medici's Network" url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/main/graphs/peony_medici.tsv">
+
 ## map
 
 The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
