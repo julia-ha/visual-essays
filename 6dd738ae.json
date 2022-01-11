@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "cheek",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://free.iiifhosting.com/iiif/1e5f83addb00d09494efbc67ab64ccce37ce6e1caf2f12dc26740c4a734ebcbf",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:6191.06884765625,6771.25830078125,1051.41748046875,1148.97998046875"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#0791dec9-6838-410b-86d2-60d5c5c5797b"
+  }
+]
