@@ -33,11 +33,11 @@
       "selector": {
         "type": "FragmentSelector",
         "conformsTo": "http://www.w3.org/TR/media-frags/",
-        "value": "xywh=pixel:5139.2197265625,5238.4853515625,1119.26806640625,850.2109375"
+        "value": "xywh=pixel:4918.08935546875,5233.26708984375,1284.87841796875,936.75048828125"
       }
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "#5e0b1a63-62c6-4729-9ac4-9c9cb80d184c"
+    "id": "#edb06d07-6802-455d-bee5-7f251a3cad0e"
   },
   {
     "type": "Annotation",
