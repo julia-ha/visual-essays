@@ -18,5 +18,25 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "#0791dec9-6838-410b-86d2-60d5c5c5797b"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "earring 2",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://free.iiifhosting.com/iiif/1e5f83addb00d09494efbc67ab64ccce37ce6e1caf2f12dc26740c4a734ebcbf",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:7521.28515625,7662.9091796875,650.53369140625,768.0263671875"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#4d4deee0-3b11-465b-8054-e055c08bcee5"
   }
 ]
