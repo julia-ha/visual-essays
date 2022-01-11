@@ -4,6 +4,26 @@
     "body": [
       {
         "type": "TextualBody",
+        "value": "mouth",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://free.iiifhosting.com/iiif/1e5f83addb00d09494efbc67ab64ccce37ce6e1caf2f12dc26740c4a734ebcbf",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:4191.08837890625,7184.7353515625,1312.67431640625,1052.0322265625"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#89c67ff6-0efc-4f17-99a0-7ca90e02eb26"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
         "value": "cheek",
         "purpose": "commenting"
       }
