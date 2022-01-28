@@ -75,6 +75,13 @@ literary treatments. In 2006, the Dutch public selected it as the most beautiful
        license= "Public Domain"
        rotate= "90"> 
  
+## image
+
+The migration of sunflower iconography from one source to another is evidenced in the pages of Francisco Hernández’s [_Nova plantarum_,](https://www.biodiversitylibrary.org/page/54114015) published posthumously in 1651.[^ref10] The book purports to document plants and animals that the naturalist and physician and his team, which included several Indigenous artists, observed during a three-year expedition through New Spain (present-day Mexico) in the 1570s.[^ref11] However, its illustrations of sunflowers, shown here, were not drawn on site from local flora but rather borrowed from European models. The <span data-click-image-zoomto="1|-45,1,912,758">upper illustration</span> was adapted directly or through intermediary sources from Besler’s _Flos Solis maior_. 
+<param ve-image primary region="5,1679,3632,3335" manifest="https://iiif.juncture-digital.org/manifest/092ea486b795bdf4b2545d73dcc1c36ca8d15163873d38a152ce732296480ef9">
+<param ve-image region="0,460,1026,896" manifest="https://iiif.juncture-digital.org/manifest/8f19722ee53f6120fb82cd1037ec48a9e66da7aa5b7c02fe6c7663200ec4adf4">
+<param ve-image region="620,1424,2053,2352" manifest="https://iiif.juncture-digital.org/manifest/8697604449486b98fdc7f8a7144563f1954a3843f7cb8e384b1f7bf449dc5feb" rotate="270">
+
 ## plant specimen
 
 The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
