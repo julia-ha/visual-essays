@@ -20,6 +20,13 @@ dated c. 1665. Going by various names over the centuries, it became known by its
        background="#32a852" 
        url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg">
 
+## Image Test
+The Grasse-based [Chiris perfumerie,](https://monumentum.fr/anciennes-parfumeries-chiris-pa00080934.html) founded by Antoine Chiris in 1768, provides a case study on the production of pelargonium oils.[^ref32] The artisanal factory specialized in manufacturing soaps, ointments, scented waters, and perfumes from aromatic plants. In the nineteenth century, Chiris expanded into a global, industrial company with many farms in colonized territories. For example, it used colonial labor to grow “Rose geranium” or _Pelargonium graveolens_ in Boufarik, Algeria. In 1865, the company built a cutting-edge 3,000 square meter factory in Boufarik’s Saint-Marguerite domain, growing pelargoniums along with orange and eucalyptus trees.[^ref33] The group of photographs, shows the Chiris complex and its workers engaging in cultivating, harvesting, and preparing pelargoniums for making rose-scented oils and other products.
+<param ve-entity eid="Q2344308" title="Boufarik">
+<param ve-entity eid="Q45669" title="Eucalyptus" aliases="eucalyptus">
+<param ve-entity eid="Q81513" title="Citrus" aliases="orange">
+<param ve-image fit="contain" title="Pelargonium fields and floricultural industry, Algeria. Anonymous, no publication date [1900s-1910s?], black and white photograph from glass plate" attribution="Source gallica.bnf.fr / BnF" url="Chiris Factory.png">
+
 ## Map
 
 The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
