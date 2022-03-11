@@ -19,6 +19,17 @@ dated c. 1665. Going by various names over the centuries, it became known by its
        license="public domain" 
        background="#32a852" 
        url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg">
+       
+## Graphic test
+The tamarind tree is a non-endangered semi-evergreen fast-growing species. It is best suited to those regions characterized by seasonal dry forests, tropical seasonal forests, and savanna biomes.[^ref6] These biomes’ climates feature slightly strong thermal oscillation and concentrated rains during specific parts of the year, resulting in water stress for plants during the dry season. Tamarind, therefore, is a drought-resistant tree with the capacity to grow in poorly developed soils through nitrogen fixation, a feature shared by all species from the Fabaceae family. In addition, it can endure aerosol salt from windy coastal areas and sequesters carbon. For these reasons, it’s not surprising that tamarind can be found in fifty-four countries along the plant’s historical circulation routes, starting in Acapulco, where it is believed to have been first planted by the Spanish. In the Sahelian region and many other parts of Africa, tamarind fruits collected from ‘natural’ populations or individual trees are essential components of the non-monetized ‘hidden harvest’ of wild resources. The assessment of the economic importance of the tamarind fruits’ “hidden harvest” requires estimating how much local populations would have to pay to replace these ‘free’ resources.[^ref7] As such, tamarind acts as an enhancer of agroforestry for small farmers and landless laborers in semi-arid areas in danger of desertification.
+<param ve-iframe fit="contain" label="Ye-nan-gyoung: Tamarind Tree, August 14–16, 1855" author="Captain Linneaus Tripe" attribution="Paula and Robert Hershkowiz, Courtesy National Gallery of Art, Washington" license="public domain" src="https://www.rct.uk/sites/default/files/collection-online/3/b/519410-1424804520.jpg">
+<param ve-entity eid="Q44448" title="Fabaceae">
+<param ve-entity eid="Q25501895" title="pinnate leaf" aliases="pinnate">
+<param ve-entity eid="Q101998" title="biome">
+<param ve-entity eid="Q397350" title="agroforestry">
+<param ve-entity eid="Q81398" title="Acapulco">
+<param ve-entity eid="Q106474492" title="Sudano-Sahelian Region" aliases="Sahelian region">
+<param ve-entity eid="Q183481" title="desertification">
 
 ## Image Test
 The Grasse-based [Chiris perfumerie,](https://monumentum.fr/anciennes-parfumeries-chiris-pa00080934.html) founded by Antoine Chiris in 1768, provides a case study on the production of pelargonium oils.[^ref32] The artisanal factory specialized in manufacturing soaps, ointments, scented waters, and perfumes from aromatic plants. In the nineteenth century, Chiris expanded into a global, industrial company with many farms in colonized territories. For example, it used colonial labor to grow “Rose geranium” or _Pelargonium graveolens_ in Boufarik, Algeria. In 1865, the company built a cutting-edge 3,000 square meter factory in Boufarik’s Saint-Marguerite domain, growing pelargoniums along with orange and eucalyptus trees.[^ref33] The group of photographs, shows the Chiris complex and its workers engaging in cultivating, harvesting, and preparing pelargoniums for making rose-scented oils and other products.
