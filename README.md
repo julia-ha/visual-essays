@@ -28,7 +28,7 @@ Maize domestication is one of the greatest feats of artificial selection and evo
 
 ## Iframe
 So large, in fact, that we may be more familiar with sunflower imagery than with the actual flower. Its proliferation in European art since the late sixteenth century was due partly to the aesthetic appeal of traits artificially selected to increase seed production—a single composite flower head with a large disk—and partly to the timing of its introduction to Europe just prior to the blossoming of a new genre of botanical treatise, called the [florilegium](https://wordsmith.org/words/florilegium.html) (collection of flowers), in the early 1600s. The transplanting of the flower and the cultural excitement surrounding its foreign provenance were also fueled by the European exploration and colonization of North America prior to and during this period.
-<param ve-iframe src="https://www.bl.uk/manuscripts/Viewer.aspx?ref=sloane_ms_1975_fs001r">
+<param ve-iframe src="https://bl.uk/manuscripts/Viewer.aspx?ref=sloane_ms_1975_fs001r">
 
 ## Image
 
