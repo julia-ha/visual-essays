@@ -24,7 +24,7 @@ Maize domestication is one of the greatest feats of artificial selection and evo
        fill="#5C6609"
        auto-play="true">
 <param ve-map-layer geojson 
-       url="https://github.com/julia-ha/visual-essays/blob/main/spread_of_maize.json">
+       url="https://raw.githubusercontent.com/julia-ha/visual-essays/main/spread_of_maize.json">
 
 ## Image
 
