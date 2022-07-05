@@ -18,5 +18,25 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "#a98a6ad8-7277-4ebb-b3dc-b199cc2464fa"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "tower",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://free.iiifhosting.com/iiif/8725b5e6fc0c0c595266f83cbc450876dbe8d2ddc951a976c541165a59681b6c",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1227.996826171875,426.29742431640625,132.419189453125,185.58697509765625"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#62508d9e-bd49-4465-b57b-264f70998098"
   }
 ]
