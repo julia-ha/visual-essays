@@ -30,6 +30,11 @@ Maize domestication is one of the greatest feats of artificial selection and evo
 So large, in fact, that we may be more familiar with sunflower imagery than with the actual flower. Its proliferation in European art since the late sixteenth century was due partly to the aesthetic appeal of traits artificially selected to increase seed production—a single composite flower head with a large disk—and partly to the timing of its introduction to Europe just prior to the blossoming of a new genre of botanical treatise, called the [florilegium](https://wordsmith.org/words/florilegium.html) (collection of flowers), in the early 1600s. The transplanting of the flower and the cultural excitement surrounding its foreign provenance were also fueled by the European exploration and colonization of North America prior to and during this period.
 <param ve-iframe src="https://www.bl.uk/manuscripts/Viewer.aspx?ref=sloane_ms_1975_fs001r">
 
+## Vis Network
+The tree has many uses that intersect with daily life including as a source of food, medicine, insect repellant, bedding, fuel, and protection. The bark can be easily peeled from the tree has been used for shelter construction, fuelwood, wrapping food, lining earth ovens, bundling babies, and as a bandage with antiseptic properties. Additionally, the trees have environmental benefits including soil conservation, windbreaking, and erosion control.
+<param ve-vis-network title="Uses of Paperbark" url="Paperbarknetwork.tsv">
+
+
 ## Image
 
 _Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by Dutch Golden Age painter Johannes Vermeer, 
