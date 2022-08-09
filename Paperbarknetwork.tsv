@@ -1,5 +1,5 @@
 source	source.label	source.image	target	target.label	target.image	edge
-Q10987	Pollen source/honey	https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Bernhard_Albrecht_Moll_His_Crippled_Sister_Eleonore.jpg/192px-Bernhard_Albrecht_Moll_His_Crippled_Sister_Eleonore.jpg	Q1778821	Cusine		connected
+Q10987	Pollen source/honey	https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Bernhard_Albrecht_Moll_His_Crippled_Sister_Eleonore.jpg/192px-Bernhard_Albrecht_Moll_His_Crippled_Sister_Eleonore.jpg	Q1778821	Cusine	https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Bernhard_Albrecht_Moll_His_Crippled_Sister_Eleonore.jpg/192px-Bernhard_Albrecht_Moll_His_Crippled_Sister_Eleonore.jpg	connected to
 Q1377087	Sweetner		Q1778821	Cusine		connected
 Q35808	Fuelwood		Q42501	Fuel		connected
 Q199182	Ornamental plant		Q1724915	General		connected
