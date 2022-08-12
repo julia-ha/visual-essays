@@ -32,7 +32,7 @@ So large, in fact, that we may be more familiar with sunflower imagery than with
 
 ## Vis Network
 The tree has many uses that intersect with daily life including as a source of food, medicine, insect repellant, bedding, fuel, and protection. The bark can be easily peeled from the tree has been used for shelter construction, fuelwood, wrapping food, lining earth ovens, bundling babies, and as a bandage with antiseptic properties. Additionally, the trees have environmental benefits including soil conservation, windbreaking, and erosion control.
-<param ve-vis-network title="Uses of Paperbark" url="Paperbarknetwork.tsv">
+<param ve-vis-network title="Uses of Paperbark" url="paperbarktest1.csv">
 
 
 ## Image
