@@ -11,7 +11,7 @@
 
 ## Ann Arbor
 Example map
-<param ve-map name="Ann Arbor" zoom="7">
+<param ve-map center="Ann Arbor" zoom="7">
 
 ## Domestication of Maize
 Maize domestication Ann Arbor is one of the greatest feats of artificial selection and evolution, wherein a weedy plant in Central Mexico was converted through human-mediated selection into the most productive crop in the world.
